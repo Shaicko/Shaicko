@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shaicko
+- 👋 Hi, I’m @Shaicko better known as Leo
 - 👀 I’m interested in programming and technology
-- 🌱 I’m currently learning computing engeniering
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
