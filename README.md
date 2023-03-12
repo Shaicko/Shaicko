@@ -8,7 +8,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaicko&show_icons=true&locale=&theme=algolia" alt="shaicko" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaicko&show_icons=true&locale=&theme=monokai" alt="shaicko" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaicko&show_icons=true&locale=&theme=monokai" alt="shaicko" /></p>
 
 <p align="left">
 🎓 Student how like to have a PhD.</a>
