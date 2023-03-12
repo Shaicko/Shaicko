@@ -22,6 +22,7 @@
 <p align="left">
 🎥 Lover of languages and the seventh art (cinema)
 </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-berdejo-guzman-463a52268" target="blank"> <img align="center" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" alt="Leonardo Berdejo Guzmán" height="50" width="50" /></a>
