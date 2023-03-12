@@ -11,7 +11,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaicko&show_icons=true&locale=&theme=monokai" alt="shaicko" /></p>
 
 <p align="left">
-<a>🎓 Student how like to have a PhD.</a>
+🎓 Student how like to have a PhD.</a>
 </p>
 <p align="left">
 🐕‍🦺	Dogs lover
