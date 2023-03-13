@@ -11,7 +11,7 @@ Computer technician. I am also new to Github.</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaicko&show_icons=true&locale=&theme=algolia" alt="shaicko" /></p>
 
 <p align="left">
-🎓 Student how like to have a PhD.</a>
+🎓 Like to have a PhD.</a>
 </p>
 <p align="left">
 🐕‍🦺	Dogs lover
