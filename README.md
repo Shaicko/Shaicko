@@ -25,6 +25,6 @@ Computer technician. I am new to Github.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardo-berdejo-guzman-463a52268" target="blank"> <img align="center" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" alt="Leonardo Berdejo Guzmán" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/leonardo-berdejo-guzman-463a52268" target="blank"> <img align="center" src="https://imgs.search.brave.com/uGDtHsxME6trYi3Pg1IQoYBs0ZNStLg4fOwcz9gYrwo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="Leonardo Berdejo Guzmán" height="50" width="50" /></a>
 <a href="https://discord.com/channels/@Shaiko#1528" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104169164/224526860-60babd24-6e05-44fc-a843-4635ad691303.png" alt="Shaiko#1528" height="60" width="60" /></a>
 </p>
